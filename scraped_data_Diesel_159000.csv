@@ -1,0 +1,1183 @@
+,newold,stock,sleeps,length,price,location,horsepower
+0,Used,Stock # 2113711,4,42 ft 6 in,88999.0,"Sherman, TX",
+1,Used,Stock # 2081356,-,35 ft 0 in,50999.0,"Katy, TX",
+2,Used,Stock # 2178973,2,25 ft 0 in,59999.0,"Center Conway, NH",
+3,Used,Stock # 2204010,4,25 ft 0 in,61999.0,"Lubbock, TX",
+4,Used,Stock # 2193644,5,29 ft 10 in,64699.0,"Thornburg, VA",
+5,Used,Stock # 2087056P,5,24 ft 11 in,64999.0,"Saukville, WI",
+6,Used,Stock # 2203479P,3,24 ft 0 in,69499.0,"Hamburg, NY",
+7,Used,Stock # 2160891,5,24 ft 10 in,69999.0,"Dover, FL",
+8,Used,Stock # 2183465,5,24 ft 11 in,69999.0,"Chattanooga, TN",
+9,Used,Stock # 2196026,5,24 ft 8 in,69999.0,"Burlington, WA",
+10,Used,Stock # 2205556,5,25 ft 0 in,69985.0,"Lowell, AR",
+11,Used,Stock # 2160719,-,25 ft 2 in,69999.0,"Kenosha, WI",
+12,Used,Stock # 2161364P,-,33 ft 0 in,69999.0,"Wood Village, OR",
+13,Used,Stock # 2180282P,5,35 ft 0 in,70999.0,"Wauconda, IL",
+14,Used,Stock # 2183054,6,25 ft 5 in,71099.0,"Louisville, TN",
+15,Used,Stock # 2129754,3,24 ft 9 in,71999.0,"Strafford, MO",
+16,Used,Stock # 2192578,4,24 ft 0 in,74499.0,"Kingston, NY",
+17,Used,Stock # 2066506,2,24 ft 11 in,75999.0,"Ridgeland, SC",
+18,Used,Stock # 2201436,5,24 ft 11 in,76799.0,"Hope Mills, NC",
+19,Used,Stock # 2184183P,4,23 ft 6 in,76499.0,"Tyler, TX",
+20,Used,Stock # 2191745,4,24 ft 0 in,76999.0,"Ridgeland, SC",
+21,Used,Stock # 3000176P,4,23 ft 6 in,77499.0,"Georgetown, KY",
+22,Used,Stock # 2183267P,4,23 ft 6 in,77999.0,"Camping World of Reno -
+                                Reno, NV",
+23,Used,Stock # 2191816,5,24 ft 11 in,77999.0,"Camping World of Marion -
+                                Marion, NC",
+24,Used,Stock # 2138661P,6,24 ft 8 in,77999.0,"Uxbridge, MA",
+25,Used,Stock # 2208241P,4,23 ft 6 in,78699.0,"Myrtle Beach, SC",
+26,Used,Stock # 2167886P,5,25 ft 0 in,78999.0,"Camping World of Reno -
+                                Reno, NV",
+27,Used,Stock # 2177326,5,24 ft 8 in,78999.0,"Gulf Breeze, FL",
+28,Used,Stock # 2182062,5,24 ft 11 in,78999.0,"Bartow, FL",
+29,Used,Stock # 2169778,4,23 ft 6 in,79499.0,"Columbia, SC",
+30,Used,Stock # 2177027P,4,23 ft 6 in,79499.0,"Burlington, WA",
+31,Used,Stock # 2198367,5,25 ft 0 in,79999.0,"Chattanooga, TN",
+32,Used,Stock # 2168590,3,23 ft 6 in,79999.0,"Dothan, AL",
+33,Used,Stock # 2191934,7,41 ft 11 in,79699.0,"Tulsa, OK",
+34,Used,Stock # 2177283,4,23 ft 6 in,80499.0,"Concord, NC",
+35,Used,Stock # 2136386,2,38 ft 0 in,80999.0,"Nashville, TN",
+36,Used,Stock # 2150644,5,24 ft 7 in,80999.0,"Draper, UT",
+37,Used,Stock # 2184926,4,25 ft 5 in,82599.0,"Bartow, FL",
+38,Used,Stock # 2152370,5,24 ft 10 in,81999.0,"Deforest, WI",
+39,Used,Stock # 2193503,3,23 ft 6 in,82999.0,"Owatonna, MN",
+40,Used,Stock # 2202953,5,24 ft 10 in,83499.0,"Las Vegas, NV",
+41,Used,Stock # 2177472,5,24 ft 8 in,82999.0,"Tulsa, OK",
+42,Used,Stock # 2194707P,4,25 ft 5 in,83699.0,"Sioux Falls, SD",
+43,Used,Stock # 1158CWY,4,25 ft 5 in,83999.0,"Cheyenne, WY",
+44,Used,Stock # 2207921,7,24 ft 8 in,83999.0,"Jacksonville, FL",
+45,Used,Stock # 2207626,2,26 ft 1 in,84499.0,"West Boylston, MA",
+46,Used,Stock # 2198429P,5,25 ft 8 in,83999.0,"Vacaville, CA",
+47,Used,Stock # 2189847,4,23 ft 6 in,84999.0,"Colfax, NC",
+48,Used,Stock # 2145144,5,25 ft 0 in,84899.0,"Tulsa, OK",
+49,Used,Stock # 2207023,6,25 ft 5 in,84999.0,"Spring, TX",
+50,Used,Stock # 2155789,5,25 ft 0 in,85999.0,"Syracuse, NY",
+51,Used,Stock # 2185088,4,23 ft 6 in,87399.0,"Gulf Breeze, FL",
+52,Used,Stock # 2192639,6,25 ft 0 in,87499.0,"Cocoa, FL",
+53,Used,Stock # 2198500P,5,24 ft 11 in,87499.0,"Pasco, WA",
+54,Used,Stock # 2204155,5,24 ft 8 in,87499.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+55,Used,Stock # 1000616P,5,24 ft 10 in,86999.0,"New Braunfels, TX",
+56,Used,Stock # 2195548,5,24 ft 8 in,87999.0,"Thornburg, VA",
+57,Used,Stock # 2198178,5,24 ft 8 in,87999.0,"Thornburg, VA",
+58,Used,Stock # 2182608,4,26 ft 0 in,87499.0,"St. George, UT",
+59,Used,Stock # 2208030P,5,24 ft 0 in,88499.0,"Grand Rapids, MI",
+60,Used,Stock # 2193326P,3,24 ft 0 in,88999.0,"Syracuse, NY",
+61,Used,Stock # 2205208,5,25 ft 0 in,88699.0,"Cedar Falls, IA",
+62,Used,Stock # 2207424,5,24 ft 11 in,89599.0,"Strafford, MO",
+63,Used,Stock # 2097607A,3,25 ft 1 in,88999.0,"Katy, TX",
+64,Used,Stock # 2129704,4,2 ft 1 in,88999.0,"Spring, TX",
+65,Used,Stock # 2183262,4,24 ft 10 in,88999.0,"Fort Worth, TX",
+66,Used,Stock # 2191889,5,24 ft 9 in,88999.0,"Woodstock, GA",
+67,Used,Stock # 2191894,6,24 ft 8 in,88999.0,"Draper, UT",
+68,Used,Stock # 2203336,4,24 ft 0 in,88999.0,"Denton, TX",
+69,Used,Stock # 2197237P,3,23 ft 6 in,89999.0,"Uxbridge, MA",
+70,Used,Stock # 2160573P,5,25 ft 1 in,89699.0,"Wauconda, IL",
+71,Used,Stock # 2169298,6,24 ft 11 in,89999.0,"Camping World of Oklahoma City East -
+                                Oklahoma City, OK",
+72,Used,Stock # 50001P,2,22 ft 9 in,89999.0,"Kaysville, UT",
+73,Used,Stock # 2206070P,4,24 ft 0 in,90499.0,"Coburg, OR",
+74,Used,Stock # 2130428,4,40 ft 0 in,91999.0,"Springfield, IL",
+75,Used,Stock # 1000710P,6,25 ft 7 in,91899.0,"New Braunfels, TX",
+76,Used,Stock # 2191795,5,25 ft 0 in,91999.0,"Woodstock, GA",
+77,Used,Stock # 2167507P,4,25 ft 8 in,92999.0,"Pasco, WA",
+78,Used,Stock # 2177702P,3,23 ft 6 in,92999.0,"Piqua, OH",
+79,Used,Stock # 2194056P,5,25 ft 7 in,92999.0,"Uxbridge, MA",
+80,Used,Stock # 2194287,5,25 ft 7 in,92999.0,"Camping World of DeKalb -
+                                Cortland, IL",
+81,Used,Stock # 2156556Z,5,24 ft 0 in,92995.0,"Hendersonville, NC",
+82,Used,Stock # 2117123,5,24 ft 8 in,92999.0,"Fort Pierce, FL",
+83,Used,Stock # 2177567P,4,25 ft 0 in,92999.0,"Anderson, CA",
+84,Used,Stock # 2160200,5,24 ft 8 in,94995.0,"Nashville, TN",
+85,Used,Stock # 2147235,-,0 ft 0 in,94499.0,"Alvarado, TX",
+86,Used,Stock # 2203917,3,7 ft 9 in,94999.0,"Alvarado, TX",
+87,Used,Stock # 2191105,5,25 ft 2 in,96799.0,"Roanoke, VA",
+88,Used,Stock # 2142894P,2,24 ft 5 in,95999.0,"Fresno, CA",
+89,Used,Stock # 2193936,5,25 ft 7 in,95999.0,"Pocatello, ID",
+90,Used,Stock # 2160472,5,24 ft 10 in,96999.0,"New River, AZ",
+91,Used,Stock # 2166354P,4,25 ft 8 in,96999.0,"Kansas City, KS",
+92,Used,Stock # 2193255,5,24 ft 8 in,96999.0,"Fort Pierce, FL",
+93,Used,Stock # 2193980,5,24 ft 8 in,96999.0,"Dothan, AL",
+94,Used,Stock # 2205641,5,24 ft 7 in,96999.0,"Huber Heights, OH",
+95,Used,Stock # 2199159P,4,23 ft 6 in,97799.0,"Camping World of Reno -
+                                Reno, NV",
+96,Used,Stock # 2168814,3,23 ft 6 in,97999.0,"Windham, ME",
+97,Used,Stock # 2183085P,4,25 ft 10 in,97999.0,"Greenwood, IN",
+98,Used,Stock # 2197149,6,25 ft 8 in,97999.0,"Tucson, AZ",
+99,Used,Stock # 2207035,5,25 ft 7 in,97999.0,"Nashville, TN",
+100,Used,Stock # 3000188P,4,23 ft 6 in,97999.0,"Georgetown, KY",
+101,Used,Stock # 2204352Z,5,24 ft 8 in,97999.0,"Idaho Falls, ID",
+102,Used,Stock # 2194946P,5,24 ft 7 in,97999.0,"Vacaville, CA",
+103,Used,Stock # 2205882,3,24 ft 7 in,97999.0,"Woodstock, GA",
+104,Used,Stock # 2167787,5,24 ft 11 in,98999.0,"Kingston, NY",
+105,Used,Stock # 2206663T,5,25 ft 7 in,98999.0,"Birch Run, MI",
+106,Used,Stock # 2207307,3,24 ft 11 in,98999.0,"Statesville, NC",
+107,Used,Stock # 2169602,4,25 ft 7 in,99499.0,"Cocoa, FL",
+108,Used,Stock # 2153711,5,33 ft 2 in,98999.0,"Midway, FL",
+109,Used,Stock # 2206925P,5,24 ft 8 in,98999.0,"Mesa, AZ",
+110,Used,Stock # 2203674P,4,24 ft 10 in,98999.0,"Fresno, CA",
+111,Used,Stock # 2160208,5,36 ft 5 in,99999.0,"Wentzville, MO",
+112,Used,Stock # 2208211P,5,25 ft 8 in,99999.0,"Coldwater, MI",
+113,Used,Stock # 2190439,3,41 ft 6 in,99499.0,"Puyallup, WA",
+114,Used,Stock # 3000165P,4,25 ft 10 in,99999.0,"Georgetown, KY",
+115,Used,Stock # 2207430,6,24 ft 6 in,99999.0,"Fort Worth, TX",
+116,Used,Stock # 2160203P,3,25 ft 2 in,100999.0,"Grand Rapids, MI",
+117,Used,Stock # 2158095P,4,24 ft 11 in,101399.0,"Escanaba, MI",
+118,Used,Stock # 2191960P,4,24 ft 0 in,101799.0,"Rossford, OH",
+119,Used,Stock # 2168934P,5,24 ft 7 in,102999.0,"Camping World of Reno -
+                                Reno, NV",
+120,Used,Stock # 2184307P,4,24 ft 0 in,102999.0,"Rossford, OH",
+121,Used,Stock # 2195518,6,24 ft 8 in,102999.0,"Draper, UT",
+122,Used,Stock # 2204345,2,24 ft 3 in,102999.0,"Lubbock, TX",
+123,Used,Stock # 2182014P,5,25 ft 1 in,103999.0,"Akron, OH",
+124,Used,Stock # 2193695,4,25 ft 10 in,103999.0,"Syracuse, NY",
+125,Used,Stock # 2194101M,3,36 ft 8 in,103999.0,"Meridian, ID",
+126,Used,Stock # 2166570,1,22 ft 5 in,104999.0,"Cocoa, FL",
+127,Used,Stock # 2171090P,4,25 ft 8 in,104999.0,"Birch Run, MI",
+128,Used,Stock # 2198144,5,27 ft 0 in,104999.0,"Wichita, KS",
+129,Used,Stock # 2198743P,4,25 ft 5 in,104999.0,"Berkley, MA",
+130,Used,Stock # 3000212P,7,35 ft 0 in,104999.0,"Georgetown, KY",
+131,Used,Stock # 2155078,2,24 ft 5 in,104999.0,"Airstream of Virginia -
+                                Ashland, VA",
+132,Used,Stock # 2203935,4,25 ft 0 in,104999.0,"Colton, CA",
+133,Used,Stock # 2159376,5,24 ft 7 in,105999.0,"Myrtle Beach, SC",
+134,Used,Stock # 2177244,5,25 ft 1 in,105999.0,"Jackson, TN",
+135,Used,Stock # 2206095P,5,25 ft 7 in,105999.0,"Rossford, OH",
+136,Used,Stock # 2159413,5,24 ft 8 in,106599.0,"Ridgeland, SC",
+137,Used,Stock # 2205596,4,26 ft 0 in,105999.0,"Kenosha, WI",
+138,Used,Stock # 2206653,5,24 ft 11 in,105999.0,"Sherman, TX",
+139,Used,Stock # 200031P,4,25 ft 8 in,106999.0,"Lincoln, NE",
+140,Used,Stock # 2203472,2,24 ft 0 in,106999.0,"Hendersonville, NC",
+141,Used,Stock # 2206311,4,25 ft 5 in,106999.0,"Colfax, NC",
+142,Used,Stock # 2190774P,5,25 ft 2 in,107499.0,"West Coxsackie, NY",
+143,Used,Stock # 2192654P,3,26 ft 0 in,107599.0,"Mesa, AZ",
+144,Used,Stock # 2193292,4,25 ft 5 in,107499.0,"Fort Pierce, FL",
+145,Used,Stock # 2190613P,5,25 ft 2 in,106999.0,"Roseville, CA",
+146,Used,Stock # 2191020,3,26 ft 0 in,106999.0,"Tyler, TX",
+147,Used,Stock # 2206224,6,25 ft 5 in,106999.0,"Camping World of Buford -
+                                Buford, GA",
+148,Used,Stock # 2156767,3,24 ft 0 in,107999.0,"Summerfield, FL",
+149,Used,Stock # 2177833,4,22 ft 9 in,107999.0,"Windham, ME",
+150,Used,Stock # 2159839,4,36 ft 8 in,108999.0,"Anniston, AL",
+151,Used,Stock # 2177115,5,25 ft 2 in,108999.0,"Mesa, AZ",
+152,Used,Stock # 2177823,5,25 ft 1 in,108999.0,"Fort Pierce, FL",
+153,Used,Stock # 2206828P,5,25 ft 10 in,108999.0,"Churchville, NY",
+154,Used,Stock # 2208206,4,25 ft 5 in,108999.0,"Hendersonville, NC",
+155,Used,Stock # 2206490,4,26 ft 0 in,109199.0,"New River, AZ",
+156,Used,Stock # 2190164,4,26 ft 0 in,109699.0,"Akron, OH",
+157,Used,Stock # 2105662A,6,25 ft 2 in,108999.0,"Vacaville, CA",
+158,Used,Stock # 2206262P,4,25 ft 7 in,110999.0,"Albuquerque, NM",
+159,Used,Stock # 2193434,5,24 ft 10 in,110099.0,"Camping World of Buford -
+                                Buford, GA",
+160,Used,Stock # 2177631,2,24 ft 4 in,110995.0,"Nashville, TN",
+161,Used,Stock # 2197211,5,24 ft 7 in,111999.0,"Thornburg, VA",
+162,Used,Stock # 2133483,1,24 ft 3 in,110999.0,"Lubbock, TX",
+163,Used,Stock # 2191403P,5,25 ft 2 in,110999.0,"Vacaville, CA",
+164,Used,Stock # 2204258,5,25 ft 2 in,111999.0,"Forest Lake, MN",
+165,Used,Stock # 1536WRP,5,24 ft 7 in,113498.0,"RVs.com Showroom Wheat Ridge -
+                                Wheat Ridge, CO",
+166,Used,Stock # 2165585,5,25 ft 7 in,112999.0,"Windham, ME",
+167,Used,Stock # 2183938,5,24 ft 7 in,111999.0,"Alvarado, TX",
+168,Used,Stock # 2156080,4,25 ft 1 in,113999.0,"Camping World of Reno -
+                                Reno, NV",
+169,Used,Stock # 2190751,5,24 ft 11 in,113999.0,"Las Vegas, NV",
+170,Used,Stock # 2203628,5,24 ft 11 in,112999.0,"Tulsa, OK",
+171,Used,Stock # 2185045,5,25 ft 2 in,114999.0,"Jackson, MS",
+172,Used,Stock # 2199257,4,25 ft 2 in,114999.0,"Owatonna, MN",
+173,Used,Stock # 2071020,6,0 ft 0 in,113999.0,"Oklahoma City, OK",
+174,Used,Stock # 2178862,4,24 ft 7 in,113999.0,"Council Bluffs, IA",
+175,Used,Stock # 2203932,4,25 ft 2 in,115999.0,"Windham, ME",
+176,Used,Stock # 2181857,5,25 ft 2 in,115199.0,"Eau Claire, WI",
+177,Used,Stock # 2206313,4,24 ft 7 in,116699.0,"Dover, FL",
+178,Used,Stock # 2193658,4,24 ft 7 in,117499.0,"Summerfield, FL",
+179,Used,Stock # 2141605,2,24 ft 4 in,116999.0,"Airstream of Virginia -
+                                Ashland, VA",
+180,Used,Stock # 2147548,6,25 ft 2 in,116999.0,"Uxbridge, MA",
+181,Used,Stock # 2208448,1,24 ft 1 in,117999.0,"Airstream of Virginia -
+                                Ashland, VA",
+182,Used,Stock # 2182119,3,40 ft 0 in,116999.0,"Poteau, OK",
+183,Used,Stock # 2189958,5,25 ft 2 in,118999.0,"Jacksonville, FL",
+184,Used,Stock # 2179063,4,24 ft 7 in,117999.0,"Oakwood, GA",
+185,Used,Stock # 2137745P,2,37 ft 7 in,118999.0,"Piqua, OH",
+186,Used,Stock # 2203710,5,25 ft 7 in,119999.0,"Camping World of DeKalb -
+                                Cortland, IL",
+187,Used,Stock # 2205597P,5,25 ft 2 in,119999.0,"Avondale, AZ",
+188,Used,Stock # 2168685,2,24 ft 4 in,120999.0,"Airstream of Virginia -
+                                Ashland, VA",
+189,Used,Stock # 2207940,6,25 ft 8 in,120999.0,"St. Augustine, FL",
+190,Used,Stock # 2182481,6,25 ft 8 in,119999.0,"Hillsboro, OR",
+191,Used,Stock # 2184193P,4,24 ft 7 in,120999.0,"RVs.com Showroom Boise -
+                                Garden City, ID",
+192,Used,Stock # 2193785,4,25 ft 7 in,120999.0,"Alvarado, TX",
+193,Used,Stock # 2205070P,2,19 ft 8 in,122999.0,"Medford, OR",
+194,Used,Stock # 2167509,5,32 ft 5 in,124999.0,"Wauconda, IL",
+195,Used,Stock # 2208041P,1,24 ft 5 in,124499.0,"Akron, OH",
+196,Used,Stock # 2203581P,6,25 ft 8 in,124999.0,"Hillsboro, OR",
+197,Used,Stock # 2171012,5,25 ft 9 in,126999.0,"Kissimmee, FL",
+198,Used,Stock # 2205832,4,25 ft 10 in,126999.0,"Summerfield, FL",
+199,Used,Stock # 2159804,3,27 ft 0 in,127999.0,"Jackson, TN",
+200,Used,Stock # 2193919,5,24 ft 11 in,127999.0,"Little Falls, MN",
+201,Used,Stock # 2151854,6,39 ft 11 in,127999.0,"Las Vegas, NV",
+202,Used,Stock # 2195437P,3,24 ft 7 in,128999.0,"Garner, NC",
+203,Used,Stock # 2178899P,4,25 ft 8 in,127999.0,"Saukville, WI",
+204,Used,Stock # 2190863,6,25 ft 8 in,129499.0,"Akron, OH",
+205,Used,Stock # 2203016,3,25 ft 8 in,129999.0,"Newport News, VA",
+206,Used,Stock # 2194252,6,24 ft 11 in,129995.0,"Draper, UT",
+207,Used,Stock # 2190492P,2,19 ft 8 in,131399.0,"Mesa, AZ",
+208,Used,Stock # 2142523A,-,0 ft 0 in,130999.0,"Fresno, CA",
+209,Used,Stock # 2167290P,5,25 ft 8 in,132999.0,"Grand Rapids, MI",
+210,Used,Stock # 2205029,3,24 ft 7 in,132999.0,"Birch Run, MI",
+211,Used,Stock # 2203723,3,24 ft 5 in,131999.0,"Oklahoma City, OK",
+212,Used,Stock # 2160682,3,24 ft 11 in,136199.0,"Jackson, TN",
+213,Used,Stock # 2066456,5,37 ft 10 in,135999.0,"Myrtle Beach, SC",
+214,Used,Stock # 2204569,1,19 ft 5 in,138999.0,"Holiday, FL",
+215,Used,Stock # 2203866Z,5,25 ft 8 in,137985.0,"Hendersonville, NC",
+216,Used,Stock # 2190214,6,39 ft 3 in,139999.0,"Mesa, AZ",
+217,Used,Stock # 2184954P,5,24 ft 9 in,138999.0,"Roseville, CA",
+218,Used,Stock # 2192437P,3,19 ft 7 in,139999.0,"Idaho Falls, ID",
+219,Used,Stock # 2193279P,2,24 ft 5 in,141999.0,"Camping World of Reno -
+                                Reno, NV",
+220,Used,Stock # 2150491A,8,35 ft 11 in,140999.0,"Katy, TX",
+221,Used,Stock # 2195340,2,22 ft 9 in,142999.0,"Jackson, TN",
+222,Used,Stock # 2148397,2,38 ft 10 in,149999.0,"Chattanooga, TN",
+223,Used,Stock # 2190510,4,25 ft 8 in,151999.0,"Chelsea, MI",
+224,Used,Stock # 2144751,6,33 ft 6 in,151999.0,"Uxbridge, MA",
+225,Used,Stock # 2193876,3,19 ft 7 in,159999.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",188
+226,Used,Stock # 2204853P,5,25 ft 8 in,161999.0,"Churchville, NY",188
+227,Used,Stock # 2147043,6,33 ft 6 in,161999.0,"Akron, OH",
+228,Used,Stock # 2206842,2,24 ft 5 in,164999.0,"Airstream of Virginia -
+                                Ashland, VA",188
+229,Used,Stock # 2159289,6,33 ft 6 in,169999.0,"Wichita, KS",
+230,Used,Stock # 2158142,4,41 ft 0 in,170999.0,"Las Vegas, NV",360
+231,Used,Stock # 2120354,-,34 ft 10 in,173999.0,"Mesa, AZ",
+232,Used,Stock # 2168943,7,36 ft 10 in,176999.0,"Gulf Breeze, FL",330
+233,Used,Stock # 2182273,8,34 ft 11 in,179999.0,"Wentzville, MO",350
+234,Used,Stock # 2012944,8,43 ft 9 in,178999.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",450
+235,Used,Stock # 2198499,6,33 ft 8 in,180999.0,"Little Falls, MN",300
+236,Used,Stock # 2183908,6,35 ft 6 in,182999.0,"Syracuse, NY",330
+237,Used,Stock # 2099750,8,60 ft 10 in,182999.0,"Dover, FL",360
+238,Used,Stock # 2168968,4,32 ft 5 in,184999.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",300
+239,Used,Stock # 2160459,-,38 ft 8 in,186999.0,"New River, AZ",
+240,Used,Stock # 1000574P,4,33 ft 6 in,185999.0,"New Braunfels, TX",330
+241,Used,Stock # 2161846P,7,35 ft 6 in,188999.0,"Akron, OH",330
+242,Used,Stock # 2191154,6,34 ft 9 in,188999.0,"Syracuse, NY",300
+243,Used,Stock # 2184403Z,5,25 ft 8 in,189995.0,"Camping World of Hugo -
+                                Hugo, MN",188
+244,Used,Stock # 2191461Z,6,30 ft 11 in,192500.0,"Berkley, MA",350
+245,Used,Stock # 2154878,4,39 ft 0 in,191999.0,"Camping World of Oklahoma City East -
+                                Oklahoma City, OK",360
+246,Used,Stock # 2191085,8,35 ft 9 in,192899.0,"Woodstock, GA",330
+247,Used,Stock # 2205753,6,34 ft 9 in,192999.0,"RVs.com Showroom North Little Rock -
+                                Sherwood, AR",300
+248,Used,Stock # 2193702P,3,39 ft 2 in,194999.0,"Meridian, ID",350
+249,Used,Stock # 2142961,4,33 ft 6 in,202999.0,"New River, AZ",330
+250,Used,Stock # 2177037P,7,35 ft 9 in,206999.0,"Roseville, CA",330
+251,Used,Stock # 2135692,4,33 ft 0 in,208999.0,"Dover, FL",360
+252,Used,Stock # 2181933,7,37 ft 9 in,209499.0,"North Little Rock, AR",330
+253,Used,Stock # 2140188A,8,38 ft 1 in,211999.0,"Summerset, SD",340
+254,Used,Stock # 2159829,-,44 ft 0 in,213999.0,"Mesa, AZ",
+255,Used,Stock # 1000453P,5,45 ft 0 in,220999.0,"Mesa, AZ",450
+256,Used,Stock # 2192780,7,38 ft 11 in,227999.0,"Alvarado, TX",340
+257,Used,Stock # 2206799Z,9,40 ft 0 in,244985.0,"Hendersonville, NC",
+258,Used,Stock # 3000073P,7,39 ft 2 in,249999.0,"Piqua, OH",350
+259,Used,Stock # 2193327,7,39 ft 11 in,257999.0,"Piqua, OH",360
+260,Used,Stock # 2149257,3,38 ft 2 in,263999.0,"Mesa, AZ",380
+261,Used,Stock # 2207409P,3,43 ft 9 in,287999.0,"Syracuse, NY",
+262,Used,Stock # 2191826,7,38 ft 2 in,294999.0,"New River, AZ",360
+263,Used,Stock # 2160463,-,44 ft 11 in,307999.0,"New River, AZ",
+264,Used,Stock # 2101801A,3,40 ft 11 in,341999.0,"Mesa, AZ",
+265,New,Stock # 1998020,5,25 ft 5 in,123998.0,"Eau Claire, WI",
+266,New,Stock # 2150498,5,25 ft 1 in,124795.0,"Fort Myers, FL",
+267,New,Stock # 2027539  VIN:GCE24TT0018578,5,24 ft 9 in,148357.0,"Wood Village, OR",
+268,New,Stock # 1862290,4,25 ft 5 in,96457.0,"Anniston, AL",
+269,New,Stock # 1862365,4,25 ft 5 in,104957.0,"Olive Branch, MS",
+270,New,Stock # 2194400,5,25 ft 10 in,117857.0,"RVs.com Showroom Anderson -
+                                Anderson, CA",
+271,New,Stock # 2228234,1,19 ft 8 in,120657.0,"Chattanooga, TN",
+272,New,Stock # 2228214,1,19 ft 8 in,121657.0,"Piqua, OH",
+273,New,Stock # 2228216,1,19 ft 8 in,121657.0,"Piqua, OH",
+274,New,Stock # 2228253,1,19 ft 8 in,121857.0,"Kingston, NY",
+275,New,Stock # 2130508,1,19 ft 8 in,124995.0,"Concord, NC",
+276,New,Stock # 2130509,1,19 ft 8 in,124995.0,"Concord, NC",
+277,New,Stock # 2130510,1,19 ft 8 in,124995.0,"Greenwood, IN",
+278,New,Stock # 2130512,1,19 ft 8 in,124995.0,"Katy, TX",
+279,New,Stock # 2130515,1,19 ft 8 in,125494.0,"Longmont, CO",
+280,New,Stock # 2170434,1,19 ft 8 in,124995.0,"Idaho Falls, ID",
+281,New,Stock # 2170435,1,19 ft 8 in,124995.0,"Idaho Falls, ID",
+282,New,Stock # 2170438,1,19 ft 8 in,124995.0,"Katy, TX",
+283,New,Stock # 2170439,1,19 ft 8 in,124995.0,"Katy, TX",
+284,New,Stock # 2170440,1,19 ft 8 in,124995.0,"Katy, TX",
+285,New,Stock # 2170442,1,19 ft 8 in,124995.0,"Katy, TX",
+286,New,Stock # 2170446,1,19 ft 8 in,125494.0,"Longmont, CO",
+287,New,Stock # 2170447,1,19 ft 8 in,125494.0,"Longmont, CO",
+288,New,Stock # 2170448,1,19 ft 8 in,125494.0,"Longmont, CO",
+289,New,Stock # 2170452,1,19 ft 8 in,124995.0,"Greenwood, IN",
+290,New,Stock # 2170454,1,19 ft 8 in,124995.0,"Greenwood, IN",
+291,New,Stock # 2170455,1,19 ft 8 in,124995.0,"Idaho Falls, ID",
+292,New,Stock # 2019587,4,25 ft 8 in,124957.0,"West Boylston, MA",
+293,New,Stock # 2150484,5,25 ft 1 in,124757.0,"Windham, ME",
+294,New,Stock # 2150485,5,25 ft 1 in,124757.0,"Columbia, MO",
+295,New,Stock # 2150487,5,25 ft 1 in,124757.0,"Council Bluffs, IA",
+296,New,Stock # 2150492,5,25 ft 1 in,124757.0,"New Braunfels, TX",
+297,New,Stock # 2150493,5,25 ft 1 in,124757.0,"Harrisburg, PA",
+298,New,Stock # 2150495,5,25 ft 1 in,124757.0,"New Braunfels, TX",
+299,New,Stock # 2150496,5,25 ft 1 in,124757.0,"Louisville, TN",
+300,New,Stock # 2150500,5,25 ft 1 in,124757.0,"Syracuse, NY",
+301,New,Stock # 2150501,5,25 ft 1 in,124757.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+302,New,Stock # 2150503,5,25 ft 1 in,124757.0,"Vacaville, CA",
+303,New,Stock # 2150505,5,25 ft 1 in,124757.0,"Fresno, CA",
+304,New,Stock # 2228245,1,19 ft 8 in,126357.0,"Harrisburg, PA",
+305,New,Stock # 2228226,1,19 ft 8 in,126457.0,"Akron, OH",
+306,New,Stock # 2228228,1,19 ft 8 in,126457.0,"Akron, OH",
+307,New,Stock # 2228229,1,19 ft 8 in,127357.0,"Piqua, OH",
+308,New,Stock # 2228251,1,19 ft 8 in,127956.0,"Golden, CO",
+309,New,Stock # 2150488,5,25 ft 1 in,127795.0,"Camping World of Oklahoma City East -
+                                Oklahoma City, OK",
+310,New,Stock # 1969328,4,25 ft 5 in,129999.0,"Tyler, TX",
+311,New,Stock # 2228230,2,19 ft 8 in,129057.0,"Windham, ME",
+312,New,Stock # 2228238,1,19 ft 8 in,129057.0,"Greenwood, IN",
+313,New,Stock # 2228231,1,19 ft 8 in,129257.0,"New Braunfels, TX",
+314,New,Stock # 1862315,4,25 ft 5 in,133999.0,"Wauconda, IL",
+315,New,Stock # 2156733,1,19 ft 8 in,137295.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+316,New,Stock # 2170437,1,19 ft 8 in,137295.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+317,New,Stock # 2170443,1,19 ft 8 in,137295.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+318,New,Stock # 2170436,1,19 ft 8 in,137395.0,"Myrtle Beach, SC",
+319,New,Stock # 2170441,2,19 ft 8 in,137395.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+320,New,Stock # 2170450,1,19 ft 8 in,137894.0,"Golden, CO",
+321,New,Stock # 2170458,2,19 ft 8 in,137395.0,"Greenwood, IN",
+322,New,Stock # 2102265,5,25 ft 5 in,139995.0,"Meridian, ID",
+323,New,Stock # 2019568,5,25 ft 8 in,141057.0,"RVs.com Showroom Nashville -
+                                Nashville, TN",
+324,New,Stock # 1861792,3,25 ft 6 in,141457.0,"Liberty Lake, WA",
+325,New,Stock # 2158205,1,19 ft 8 in,141195.0,"Myrtle Beach, SC",
+326,New,Stock # 2159666,2,19 ft 8 in,141195.0,"Akron, OH",
+327,New,Stock # 2159669,1,19 ft 8 in,141195.0,"Katy, TX",
+328,New,Stock # 2156731,2,19 ft 8 in,141295.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+329,New,Stock # 2157902,1,19 ft 8 in,141295.0,"Manassas, VA",
+330,New,Stock # 2204807,1,19 ft 8 in,141295.0,"Greenwood, IN",
+331,New,Stock # 2204750,1,19 ft 8 in,141395.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+332,New,Stock # 2204745,1,19 ft 8 in,142194.0,"Longmont, CO",
+333,New,Stock # 2006548,5,24 ft 9 in,148395.0,"Kingston, NY",
+334,New,Stock # 2020960,5,24 ft 9 in,148357.0,"North Little Rock, AR",
+335,New,Stock # 2020961,5,24 ft 9 in,148357.0,"North Little Rock, AR",
+336,New,Stock # 2054123,5,24 ft 9 in,148357.0,"Kingston, NY",
+337,New,Stock # 2054124,5,24 ft 9 in,148357.0,"Greenwood, IN",
+338,New,Stock # 2024123,5,24 ft 9 in,148457.0,"Roseville, CA",
+339,New,Stock # 2196400,6,25 ft 2 in,149957.0,"Colton, CA",
+340,New,Stock # 2024146,5,24 ft 9 in,148657.0,"Vacaville, CA",
+341,New,Stock # 1865024,5,24 ft 7 in,149995.0,"Greenwood, IN",
+342,New,Stock # 1812030,6,25 ft 6 in,149457.0,"Meridian, ID",
+343,New,Stock # 2020959,5,24 ft 9 in,151257.0,"North Little Rock, AR",
+344,New,Stock # 2019589,5,25 ft 8 in,152095.0,"Kingston, NY",
+345,New,Stock # 2043448,4,25 ft 5 in,154995.0,"Nashville, TN",
+346,New,Stock # 2132394,5,25 ft 5 in,154995.0,"Chelsea, MI",
+347,New,Stock # 2179146,4,25 ft 5 in,154995.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+348,New,Stock # 1996745,5,25 ft 8 in,152157.0,"Cedar Falls, IA",
+349,New,Stock # 2014955,5,24 ft 9 in,152257.0,"Liberty Lake, WA",
+350,New,Stock # 2040697,5,25 ft 8 in,152657.0,"Camping World of Marion -
+                                Marion, NC",
+351,New,Stock # 2024121,5,25 ft 8 in,152757.0,"Roseville, CA",
+352,New,Stock # 2027550,5,25 ft 8 in,152757.0,"Calera, AL",
+353,New,Stock # 2040695,5,25 ft 8 in,152857.0,"RVs.com Showroom Nashville -
+                                Nashville, TN",
+354,New,Stock # 2029596,5,25 ft 8 in,152957.0,"Deforest, WI",
+355,New,Stock # 2024141,5,25 ft 8 in,153057.0,"Vacaville, CA",
+356,New,Stock # 2024147,5,25 ft 8 in,153057.0,"Vacaville, CA",
+357,New,Stock # 1975688,5,24 ft 7 in,154999.0,"McGeorge RV - A Camping World Company -
+                                Ashland, VA",
+358,New,Stock # 2029597,5,24 ft 9 in,153857.0,"Deforest, WI",
+359,New,Stock # 2061009,5,24 ft 9 in,153957.0,"Gulf Breeze, FL",
+360,New,Stock # 2147855,5,24 ft 9 in,153957.0,"Greenwood, IN",
+361,New,Stock # 2193801,2,25 ft 2 in,155357.0,"Colton, CA",
+362,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+363,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+364,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+365,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+366,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+367,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+368,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+369,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+370,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+371,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+372,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+373,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+374,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+375,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+376,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+377,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+378,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+379,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+380,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+381,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+382,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+383,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+384,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+385,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+386,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+387,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+388,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+389,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+390,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+391,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+392,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+393,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+394,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+395,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+396,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+397,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+398,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+399,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+400,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+401,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+402,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+403,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+404,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+405,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+406,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+407,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+408,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+409,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+410,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+411,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+412,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+413,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+414,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+415,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+416,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+417,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+418,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+419,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+420,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+421,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+422,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+423,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+424,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+425,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+426,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+427,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+428,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+429,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+430,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+431,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+432,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+433,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+434,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+435,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+436,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+437,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+438,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+439,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+440,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+441,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+442,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+443,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+444,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+445,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+446,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+447,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+448,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+449,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+450,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+451,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+452,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+453,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+454,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+455,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+456,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+457,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+458,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+459,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+460,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+461,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+462,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+463,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+464,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+465,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+466,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+467,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+468,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+469,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+470,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+471,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+472,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+473,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+474,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+475,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+476,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+477,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+478,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+479,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+480,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+481,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+482,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+483,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+484,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+485,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+486,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+487,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+488,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+489,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+490,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+491,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+492,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+493,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+494,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+495,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+496,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+497,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+498,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+499,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+500,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+501,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+502,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+503,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+504,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+505,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+506,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+507,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+508,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+509,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+510,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+511,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+512,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+513,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+514,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+515,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+516,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+517,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+518,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+519,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+520,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+521,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+522,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+523,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+524,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+525,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+526,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+527,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+528,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+529,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+530,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+531,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+532,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+533,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+534,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+535,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+536,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+537,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+538,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+539,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+540,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+541,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+542,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+543,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+544,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+545,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+546,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+547,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+548,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+549,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+550,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+551,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+552,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+553,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+554,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+555,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+556,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+557,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+558,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+559,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+560,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+561,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+562,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+563,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+564,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+565,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+566,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+567,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+568,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+569,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+570,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+571,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+572,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+573,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+574,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+575,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+576,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+577,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+578,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+579,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+580,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+581,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+582,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+583,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+584,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+585,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+586,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+587,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+588,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+589,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+590,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+591,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+592,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+593,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+594,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+595,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+596,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+597,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+598,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+599,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+600,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+601,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+602,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+603,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+604,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+605,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+606,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+607,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+608,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+609,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+610,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+611,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+612,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+613,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+614,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+615,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+616,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+617,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+618,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+619,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+620,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+621,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+622,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+623,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+624,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+625,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+626,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+627,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+628,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+629,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+630,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+631,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+632,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+633,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+634,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+635,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+636,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+637,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+638,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+639,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+640,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+641,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+642,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+643,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+644,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+645,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+646,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+647,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+648,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+649,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+650,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+651,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+652,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+653,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+654,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+655,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+656,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+657,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+658,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+659,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+660,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+661,New,Stock # 1972800,5,25 ft 8 in,159957.0,"Cedar Falls, IA",188
+662,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+663,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+664,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+665,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+666,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+667,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+668,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+669,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+670,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+671,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+672,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+673,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+674,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+675,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+676,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+677,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+678,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+679,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+680,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+681,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+682,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+683,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+684,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+685,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+686,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+687,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+688,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+689,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+690,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+691,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+692,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+693,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+694,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+695,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+696,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+697,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+698,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+699,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+700,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+701,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+702,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+703,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+704,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+705,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+706,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+707,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+708,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+709,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+710,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+711,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+712,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+713,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+714,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+715,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+716,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+717,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+718,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+719,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+720,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+721,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+722,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+723,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+724,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+725,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+726,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+727,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+728,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+729,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+730,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+731,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+732,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+733,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+734,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+735,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+736,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+737,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+738,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+739,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+740,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+741,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+742,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+743,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+744,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+745,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+746,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+747,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+748,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+749,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+750,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+751,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+752,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+753,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+754,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+755,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+756,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+757,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+758,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+759,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+760,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+761,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+762,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+763,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+764,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+765,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+766,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+767,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+768,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+769,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+770,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+771,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+772,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+773,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+774,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+775,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+776,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+777,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+778,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+779,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+780,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+781,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+782,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+783,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+784,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+785,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+786,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+787,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+788,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+789,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+790,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+791,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+792,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+793,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+794,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+795,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+796,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+797,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+798,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+799,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+800,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+801,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+802,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+803,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+804,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+805,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+806,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+807,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+808,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+809,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+810,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+811,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+812,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+813,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+814,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+815,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+816,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+817,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+818,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+819,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+820,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+821,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+822,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+823,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+824,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+825,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+826,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+827,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+828,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+829,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+830,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+831,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+832,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+833,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+834,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+835,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+836,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+837,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+838,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+839,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+840,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+841,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+842,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+843,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+844,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+845,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+846,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+847,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+848,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+849,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+850,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+851,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+852,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+853,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+854,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+855,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+856,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+857,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+858,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+859,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+860,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+861,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+862,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+863,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+864,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+865,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+866,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+867,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+868,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+869,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+870,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+871,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+872,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+873,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+874,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+875,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+876,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+877,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+878,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+879,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+880,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+881,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+882,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+883,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+884,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+885,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+886,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+887,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+888,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+889,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+890,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+891,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+892,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+893,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+894,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+895,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+896,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+897,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+898,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+899,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+900,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+901,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+902,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+903,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+904,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+905,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+906,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+907,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+908,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+909,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+910,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+911,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+912,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+913,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+914,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+915,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+916,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+917,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+918,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+919,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+920,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+921,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+922,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+923,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+924,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+925,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+926,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+927,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+928,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+929,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+930,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+931,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+932,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+933,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+934,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+935,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+936,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+937,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+938,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+939,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+940,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+941,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+942,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+943,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+944,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+945,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+946,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+947,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+948,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+949,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+950,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+951,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+952,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+953,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+954,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+955,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+956,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+957,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+958,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+959,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+960,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+961,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+962,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+963,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+964,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+965,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+966,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+967,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+968,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+969,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+970,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+971,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+972,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+973,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+974,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+975,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+976,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+977,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+978,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+979,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+980,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+981,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+982,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+983,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+984,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+985,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+986,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+987,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+988,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+989,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+990,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+991,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+992,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+993,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+994,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+995,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+996,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+997,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+998,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+999,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1000,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1001,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1002,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1003,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1004,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1005,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1006,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1007,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1008,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1009,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1010,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1011,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1012,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1013,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1014,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1015,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1016,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1017,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1018,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1019,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1020,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1021,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1022,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1023,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1024,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1025,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1026,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1027,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1028,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1029,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1030,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1031,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1032,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1033,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1034,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1035,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1036,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1037,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1038,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1039,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1040,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1041,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1042,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1043,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1044,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1045,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1046,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1047,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1048,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1049,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1050,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1051,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1052,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1053,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1054,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1055,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1056,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1057,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1058,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1059,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1060,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1061,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1062,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1063,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1064,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1065,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1066,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1067,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1068,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1069,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1070,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1071,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1072,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1073,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1074,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1075,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1076,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1077,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1078,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1079,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1080,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1081,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1082,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1083,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1084,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1085,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1086,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1087,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1088,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1089,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1090,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1091,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1092,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1093,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1094,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1095,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1096,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1097,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1098,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1099,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1100,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1101,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1102,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1103,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1104,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1105,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1106,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1107,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1108,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1109,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1110,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1111,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1112,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1113,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1114,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1115,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1116,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1117,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1118,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1119,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1120,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1121,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
+1122,New,Stock # 2024144,5,25 ft 8 in,154057.0,"Vacaville, CA",
+1123,New,Stock # 2159883,5,24 ft 9 in,154057.0,"London, KY",
+1124,New,Stock # 2195483,5,25 ft 2 in,155857.0,"Colton, CA",
+1125,New,Stock # 2014892  VIN:GCE24FB0018508,5,25 ft 8 in,155157.0,"Hillsboro, OR",
+1126,New,Stock # 2024145,5,24 ft 9 in,156157.0,"Vacaville, CA",
+1127,New,Stock # 2024151,5,24 ft 9 in,156257.0,"Fresno, CA",
+1128,New,Stock # 2028999,6,25 ft 5 in,159995.0,"Katy, TX",188
+1129,New,Stock # 2179123,6,25 ft 5 in,159995.0,"Katy, TX",188
+1130,New,Stock # 2179140,6,25 ft 5 in,159995.0,"Las Vegas, NV",188
+1131,New,Stock # 2179188,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1132,New,Stock # 2179189,4,25 ft 5 in,159995.0,"Vacaville, CA",188
+1133,New,Stock # 2195482,5,25 ft 2 in,158457.0,"Colton, CA",
+1134,New,Stock # 2207498,2,19 ft 7 in,159957.0,"Katy, TX",188
+1135,New,Stock # 1992781,5,33 ft 9 in,158857.0,"Las Vegas, NV",
+1136,New,Stock # 1993942,2,19 ft 7 in,159995.0,"Greenwood, IN",188
+1137,New,Stock # 2169959,2,19 ft 7 in,159995.0,"Fresno, CA",188
+1138,New,Stock # 2152281,2,19 ft 7 in,159957.0,"Idaho Falls, ID",188
+1139,New,Stock # 2170311,2,19 ft 7 in,159957.0,"Tulsa, OK",188
+1140,New,Stock # 2024124,5,25 ft 8 in,159457.0,"Roseville, CA",188
+1141,New,Stock # 2104777,5,25 ft 8 in,159657.0,"Akron, OH",188
