@@ -51,5 +51,3 @@ Quick screenshot in our implementation:
 We did a very simple analysis in `analysis.ipynb` notebook, here, we quickly take a look at if information is complete and unique, then dig little deeper on some information. One may take a look in detail in this notebook.
 
 
-<center>***Veni，vidi，vici --Caesar***</center>
-
